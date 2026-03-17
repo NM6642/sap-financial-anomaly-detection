@@ -61,7 +61,7 @@ This dashboard demonstrates:
 
 | Top Cost Centers |
 |-----------------|
-| ![Top Cost Centers](Top_Vendors_with_Anomalies.png) |
+| ![Top Cost Centers](Top_cost.png) |
 
 ---
 
