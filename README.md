@@ -1,6 +1,6 @@
 # SAP Financial Anomaly Detection System
 
-This project detects suspicious transactions, assigns risk levels, provides reasons, and visualizes key financial insights in a compact dashboard — ideal for SAP analytics and consulting portfolios.
+This project detects suspicious transactions, assigns risk levels, provides reasons, and visualizes key financial insights in a compact dashboard ideal for SAP analytics and consulting portfolios.
 
 ---
 
