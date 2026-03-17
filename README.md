@@ -63,7 +63,7 @@ This dashboard demonstrates:
 
 | Dashboard Overview | Monthly Trend |
 |-------------------|---------------|
-| ![Dashboard](dashboard_1.png) | ![Monthly Trend](monthly_financial trend.png) |
+| ![Dashboard](dashboard_1.png) | ![Monthly Trend](monthly_trend.png) |
 
 | Suspicious Transactions | Top Vendors |
 |-------------------------|------------|
