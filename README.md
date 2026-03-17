@@ -30,16 +30,6 @@ This dashboard demonstrates:
 
 ---
 
-## Technology Stack
-
-- **Python**  
-- **Pandas** for data manipulation  
-- **Plotly** for interactive charts  
-- **Streamlit** for the dashboard  
-- **Scikit-learn** (Isolation Forest) for anomaly detection  
-
----
-
 ## How It Works
 
 1. **Load financial data** (CSV file).  
